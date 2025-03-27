@@ -135,3 +135,7 @@ D:\Programming Projects\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\refint\
 D:\Programming Projects\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.pdb
 D:\Programming Projects\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.genruntimeconfig.cache
 D:\Programming Projects\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\ref\Expense_Tracker.dll
+D:\Programming Projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programming Projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
+D:\Programming Projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
+D:\Programming Projects\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.MvcApplicationPartsAssemblyInfo.cs
